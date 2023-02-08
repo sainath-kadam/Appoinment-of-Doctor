@@ -1,0 +1,6 @@
+{
+    "mongoURI":
+    "mongodb+srv://hospital1:TGKRsYLmuM1N6Gv5@cluster0.qffdlng.mongodb.net/?retryWrites=true&w=majority",
+    "JWT_SECRET": "secrate"
+      
+  }
